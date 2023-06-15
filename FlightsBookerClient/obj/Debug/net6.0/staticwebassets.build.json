@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U7+5AqSv1R9c5fM/RxFgNOSi/hKzQk0nNojiuXIVOEU=",
+  "Source": "FlightsBookerClient",
+  "BasePath": "_content/FlightsBookerClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

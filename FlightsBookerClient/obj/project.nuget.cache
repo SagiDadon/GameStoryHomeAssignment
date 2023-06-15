@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ox0SWEzDHbkLdzamHBPa1CoZpOAbw/TdhD5NlzLfl5irCFEPAvxJsOt0kDTjySuCxidXzPXayW1nzGWagfogPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sagid\\source\\repos\\FlightBookingAssignment\\FlightsBookerClient\\FlightsBookerClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sagid\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
